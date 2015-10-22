@@ -13,7 +13,8 @@ Part One- Simple Regression Model
 4.	Interpret the R-squared
 
 Part Two-  Multiple Regression Model
-1.	Choose a number of independent variables (n more than 5) and a dependent variable from the dataset. These independent variables will be used to predict the dependent variable.
+
+1.	Choose a number of independent variables (not more than 5) and a dependent variable from the dataset. These independent variables will be used to predict the dependent variable.
 2.	Find the relationship between the variables using multiple regression modeling and SAS
 3.	Check the model in term of correlation between the independent variables
 4.	Interpret the standard errors
